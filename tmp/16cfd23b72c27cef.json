@@ -1,1 +1,0 @@
-{"text":"PROBLEMA: Ao acessar o Portal eNF é apresentada uma mensagem informando que o serviço não está disponível.SOLUÇÃO: Abrir o gerenciador do IIS e verificar se está correta a senha do usuário do Pool da aplicação. Se a senha do usuário for alterada, somente dará problema quando o servidor for reiniciado ou rodado o comando \"IISRESET\" manualmente."}

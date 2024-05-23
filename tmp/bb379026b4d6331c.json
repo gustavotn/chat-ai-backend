@@ -1,1 +1,0 @@
-{"text":"Data de Liberação: 05/08/2021Melhorias:Implementação de um mecanismo de busca de dados Pessoa Jurídica, através do CNPJ.Esse mecanismo busca os dados da Receita Federal e preenche automaticamente as informações da empresa, no cadastro de Cliente.Informações preenchidas automaticamente: CNPJ, Nome, Nome Fantasia, CEP, Endereço, Contatos e E-mail."}
