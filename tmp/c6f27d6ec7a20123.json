@@ -1,0 +1,1 @@
+{"text":"Sintomas da falha:Ao clicar em Compor na Composição Lista de Preço quando seleciona a opção Custo Produção no campo Origem do Preço, o sistema trava e consome muita memória.Solução:Se a versão for a última publicada, v14.2.2021.1217, Aplicar o patch PDHBB4C96B1.patch desta versão. Caso contrário, atualizar a versão e depois aplicar o patch."}

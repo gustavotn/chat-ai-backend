@@ -1,0 +1,1 @@
+{"text":"Sintomas:Ao configurar uma conta de e-mail do provedor LocaWeb, ao enviar o erro 5.0.3 - Cliente não autenticado, ocorre.Solução:Para configurar uma conta de SMTP da LocaWeb, deve-se preencher os dados da conta (servidor, porta = 587, usuário, senha, e-mail) e marcar no protocolo apenas as opções Ssl3 e Tls, cfe. imagem abaixo:"}

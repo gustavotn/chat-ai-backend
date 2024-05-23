@@ -1,0 +1,1 @@
+{"text":"Sintomas da falha:Ao clicar em atender em uma solicitação de produção, com a qualquer das opção nos parâmetros abaixo marcadas como SIM, o sistema apresenta a mensagem abaixo:Solução:Se a versão for a última publicada, v14.2.2021.1217, Aplicar o patch PDHE0874A9B.patch desta versão. Caso contrário, atualizar a versão e depois aplicar o patch."}

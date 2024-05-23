@@ -1,0 +1,1 @@
+{"text":"Foi implementado um indicador nas telas de listagem, com o objetivo de sinalizar para o usuário se o processamento dos dados estão sendo realizados ou não.Qualquer tela que possui um pesquisador:Indicador de processamento:Ao selecionar a opção \"Mais Resultados\", esse indicador \"Carregando\" também aparece."}

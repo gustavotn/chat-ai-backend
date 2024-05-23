@@ -1,0 +1,1 @@
+{"text":"Este erro é ocasionado, quando o usuário altera o \"tipo\" da nota, para um em que o ID de movimentação do item é alterado, desta forma, a nota é alterada mas o ID do item não.Para correção desse erro, o usuário deve apenas remover os itens da nota, e adicionar novamente."}

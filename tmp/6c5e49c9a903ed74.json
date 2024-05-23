@@ -1,0 +1,1 @@
+{"text":"Em alguns casos quando o cliente utiliza o Thunderbird como aplicativo padrão para email, pode ocorrer o comportamento de não abrir corretamente o aplicativo ao clicar em na ação de enviar email do Plenus.SOLUÇÃO: Analisar se a versão do Thunderbird é 32 ou 64. Foram identificados casos onde estava instalada a versão 32 e resolveu ao instalar a versão 64."}

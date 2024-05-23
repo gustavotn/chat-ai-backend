@@ -1,0 +1,1 @@
+{"text":"Sintomas da falha:Ao executar o atendimento de um documento e clicar em Atender Lote, a tela de seleção dos documentos abre apenas com a coluna da caixa de marcação, cfe. tela abaixo:Solução:Se a versão for a última publicada, v14.2.2021.1217, aplicar o patch PDH7DFCF46C.patch desta versão. Caso contrário, atualizar a versão e depois aplicar o patch."}
