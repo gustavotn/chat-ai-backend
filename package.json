@@ -17,6 +17,7 @@
     "typescript": "^5.4.5"
   },
   "dependencies": {
+    "@langchain/community": "^0.2.2",
     "@langchain/core": "^0.1.58",
     "@langchain/openai": "^0.0.28",
     "@langchain/redis": "^0.0.3",

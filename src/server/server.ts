@@ -1,5 +1,5 @@
 import express from 'express';
-import { answerQuestion } from '../gpt';
+import { answerQuestion } from '../ollama';
 import cors from 'cors';
 
 import 'dotenv/config'; // .env
